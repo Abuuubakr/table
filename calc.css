@@ -1,0 +1,24 @@
+table, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: auto;
+    font-size: large;
+    color: white;
+}
+.h, .v{
+    background-color: black;
+}
+.h{
+    text-align: center;
+}
+.h:hover{
+   opacity: 0.6; 
+}
+.v{
+    font-size: 2em;
+    text-align: end;
+}
+#s{
+    font-family: sans-serif;
+}
